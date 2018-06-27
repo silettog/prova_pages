@@ -1,8 +1,8 @@
-title:             "Italia Design Jekyll Theme - by G.Gentili 2018"
-description:       "A theme for Jekyll or GitHub Pages derived from Clean Blog by Start Bootstrap"
+title:             "TITOLO"
+description:       "descrizione"
 baseurl:           "/"
-url:               "https://ggentili.github.io/Italia-Design-Jekyll-Theme/"
-author:            "Redazione"
+url:               "https://github.com/silettog/prova_pages"
+author:            "autore"
 
 # Header data
 header_parent_title: Nome ente sovraordinato
