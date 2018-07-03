@@ -3,7 +3,7 @@ layout: post
 title:  "prova pagina 3 luglio"
 titles_color: white
 subtitle: "prova prova prova"
-date:   2018-02-16 23:45:13 -0400
+date:   2018-07-03 16:37:00 -0400
 background: '/img/posts/01.jpg'
 categories: [Tech, News]
 ---
